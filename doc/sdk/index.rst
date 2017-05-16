@@ -9,6 +9,7 @@ Introduction
 	:maxdepth: 1
 
 	overview
+	messageflow
 
 Installation
 ------------
@@ -65,3 +66,12 @@ Advanced
         :maxdepth: 1
 
         advancedgetreputationexample
+
+Guidance
+--------
+
+    .. toctree::
+        :maxdepth: 1
+
+        cachingreputations
+        testscenarios
